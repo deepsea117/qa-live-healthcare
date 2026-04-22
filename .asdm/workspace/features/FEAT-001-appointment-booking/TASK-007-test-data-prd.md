@@ -4,7 +4,7 @@
 **Feature Name**: 预约挂号
 **Task ID**: TASK-007
 **Created Date**: 2026-04-22
-**Status**: TODO
+**Status**: COMPLETED
 **Language**: zh
 
 ## 1. Task Overview
